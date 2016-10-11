@@ -7,7 +7,7 @@ a, a:active, a:hover {
     color: #000;
 }
 .snap { border: 1px dashed #000; float: left; margin-left: 10px; position: absolute; text-align: center; display: table; }
-.ruimte { border: 1px solid; float: left; margin-left: 10px; position: absolute; text-align: center; display: table;  }
+.ruimte {  z-index: -10; border: 1px solid; float: left; margin-left: 10px; position: absolute; text-align: center; display: table;  }
 .snap p { display: table-cell; vertical-align: middle; }
 
 .reverse { position: absolute; bottom: 0; right: 0; width: 20px; height: 20px; }

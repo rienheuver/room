@@ -1,5 +1,5 @@
 $(function() {
-  $( ".snap" ).draggable({ snap: ".snap" });
+  $( ".snap" ).draggable({ snap: ".ruimte" });
 });
 
 $(document).ready(function() {
