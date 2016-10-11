@@ -5839,6 +5839,30 @@ a, a:active, a:hover {
   width: 20px;
   height: 20px; }
 
+#bed {
+  height: 145px;
+  width: 205px; }
+
+#marimba {
+  height: 96px;
+  width: 205px; }
+
+#bank {
+  height: 90px;
+  width: 250px; }
+
+#kast {
+  height: 121px;
+  width: 48px; }
+
+#wasmachine {
+  height: 60px;
+  width: 60px; }
+
+#koelkast {
+  height: 56px;
+  width: 53px; }
+
 #keuken {
   width: 210px;
   height: 317px;
@@ -5910,14 +5934,6 @@ a, a:active, a:hover {
   width: 140px;
   top: 280px;
   left: 471px; }
-
-#bed {
-  height: 145px;
-  width: 205px; }
-
-#marimba {
-  height: 96px;
-  width: 205px; }
 
 .deur {
   height: 1px;
