@@ -1,0 +1,107 @@
+//@import "variables";
+@import "../node_modules/bootstrap-sass/assets/stylesheets/bootstrap";
+@import 'https://fonts.googleapis.com/css?family=Quicksand';
+@import 'https://fonts.googleapis.com/css?family=Maven+Pro';
+
+a, a:active, a:hover {
+    color: #000;
+}
+.snap { border: 1px dashed #000; float: left; margin-left: 10px; position: absolute; text-align: center; display: table; }
+.ruimte { border: 1px solid; float: left; margin-left: 10px; position: absolute; text-align: center; display: table;  }
+.snap p { display: table-cell; vertical-align: middle; }
+
+.reverse { position: absolute; bottom: 0; right: 0; width: 20px; height: 20px; }
+
+#keuken {
+    width: 210px;
+    height: 317px;
+    left: 777px;
+    top: 78px;
+}
+
+#aanrecht {
+    width: 61px;
+    height: 171px;
+    left: 926px;
+    top: 78px;
+}
+
+#gang {
+    width: 90px;
+    height: 579px;
+    left: 777px;
+    top: 393px;
+}
+
+#badkamer {
+    width: 95px;
+    height: 254px;
+    left: 867px;
+    top: 393px;
+}
+#badkamermuurtje {
+    width: 22px;
+    height: 25px;
+    left: 940px;
+    top: 596px;
+}
+
+#kelder {
+    width: 181px;
+    height: 319px;
+    left: 781px;
+    top: 646px;
+}
+
+#woonkamer {
+    height: 455px;
+    width: 358px;
+    left: 422px;
+    top: 515px;
+}
+#woonkamermuurklein {
+    width: 20px;
+    height: 67px;
+    left: 757px;
+    top: 903px;
+}
+#woonkamermuurgroot {
+    width: 52px;
+    height: 155px;
+    left: 422px;
+    top: 515px;
+}
+#woonkamervensterbank {
+    height: 16px;
+    width: 244px;
+    left: 478px;
+    top: 939px;
+}
+
+#slaapkamer {
+    height: 235px;
+    width: 356px;
+    left: 422px;
+    top: 280px;
+}
+#slaapkamervensterbank {
+    height: 25px;
+    width: 140px;
+    top: 280px;
+    left: 471px;
+}
+
+#bed {
+    height: 145px;
+    width: 205px;
+}
+
+#marimba {
+    height: 96px;
+    width: 205px;
+}
+
+.deur {
+    height: 1px;
+    width: 82px;
+}
